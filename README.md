@@ -115,5 +115,4 @@ i) **How to merge test results on three folds?**
  - (Chinese blog on FC<sup>4</sup> by wy1988) [基于神经网络的颜色恒常性](https://www.cnblogs.com/wangyong/p/9141075.html)
 
 # Acknowledgments 
- - The SqueezeNet model is taken from [here](https://github.com/DeepScale/SqueezeNet). Thank Yu Gu for his great efforts in converting the `Caffe` models into a `TensorFlow`-readable version! 
 最后非常感谢作者yuanming-hu。
