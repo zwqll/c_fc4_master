@@ -1,0 +1,7 @@
+{
+  "fc4.py::test": true,
+  "fc4.py::test_input_gamma": true,
+  "fc4.py::test_multi": true,
+  "fc4.py::test_naive": true,
+  "fc4.py::test_network": true
+}
